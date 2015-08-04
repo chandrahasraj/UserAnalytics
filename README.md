@@ -5,7 +5,7 @@
 * This repository contains connection betweeen kinesis and storm that I have developed. The repository is still under construction.
 
 The functionality that i have written in it has the following steps.
-* A mobile application is being used by user, who performs on some operations as he needs and this data is sent to amazon kinesis
+ * A mobile application is being used by user, who performs on some operations as he needs and this data is sent to amazon kinesis
 * The data can be sent to kinesis using various methodologies.
 * This data is gathered by the storm spout and various tasks are being carried out of them.
 
